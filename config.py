@@ -19,7 +19,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "Movie_Centre1")
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
              # Ask Doubt on telegram @KingVJ01
 
-DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
+DB_NAME = os.environ.get("DB_NAME", "Utkarsh9")     
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://Utkarsh123:9335924360@utkarsh9.af91n.mongodb.net/?retryWrites=true&w=majority&appName=Utkarsh9")
  
