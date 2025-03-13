@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "26926782")
 
 API_HASH = os.environ.get("API_HASH", "9b2fac908fb7f9a3dabac3b0a57211b1")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7786105206:AAHm0iceXktLQugF_5xs-lRj8xjbtMR-xE0") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8184665595:AAHasatOstcUgATCWbneK-j95ojTpmr53vo") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "Movie_Centre1") 
 
@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "Movie_Centre1")
 
 DB_NAME = os.environ.get("DB_NAME", "Utkarsh9")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://Utkarsh123:9335924360@utkarsh9.af91n.mongodb.net/?retryWrites=true&w=majority&appName=Utkarsh9")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://Utkarsh123:<db_password>@utkarsh9.af91n.mongodb.net/?retryWrites=true&w=majority&appName=Utkarsh9")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
